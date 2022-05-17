@@ -1,0 +1,45 @@
+* {
+    font-family: 'Lato', sans-serif;
+   
+}
+h2, .order-now h2, h1 {
+    font-family: 'Grand Hotel', cursive;
+}
+.p { color: #333333;}
+.bg-red-new,
+.red_transparent_bg{background: url("img/hero-bg.jpg") ;background-size: cover; }
+
+.nav-link {color:#fff}
+h1 {font-size: 5em;}
+
+.hero-btn{
+    border-radius: 10px;
+    color:red;
+    font-weight: 700;
+
+}
+.testimonial{background: url("img/popular-bg.jpg");}
+.hero_content {
+    padding:4em;
+}
+.popular{
+    background: url("img/popular-bg.jpg"); background-size: cover;
+}
+.text-red{color:red}
+.stats {
+    background: url("img/stats-bg.jpg"); background-size: cover;
+}
+.dash-circel-border {border: 5px dotted #fff; border-radius: 50%; width: 200px;height:200px;align-items: center;}
+.works-way{background: #F1E7CC;}
+.box{border-radius: 20px;}
+.our-menu{
+    background-color: #F1E7CC;
+}
+img{width: 100%;}
+.subscirbe,.order-content{background-color: #FCF5E4;}
+.dash-circel-border:hover{background-color: #fff;color: red; border:red dotted}
+input[type="email"] {background: #fff;padding: 20px;border-radius: 30px;border: navajowhite;width: 55%;margin: 0;}
+
+input[type="submit"] {padding: 20px;border: navajowhite;margin: 0;background: red;color: #fff;font-weight: 700;border-radius: 30px;width: 25%;margin-left: -10%;}
+footer{background: #252525;}
+footer a{color: #fff;}
