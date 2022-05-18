@@ -38,7 +38,7 @@ h1 {font-size: 5em;}
 img{width: 100%;}
 .subscirbe,.order-content{background-color: #FCF5E4;}
 .dash-circel-border:hover{background-color: #fff;color: red; border:red dotted}
-input[type="email"] {background: #fff;padding: 20px;border-radius: 30px;border: navajowhite;margin: 0;}
+input[type="email"] {background: #fff;padding: 20px;border-radius: 30px;border: navajowhite;margin: 0; width: 60%;}
 
 input[type="submit"] {padding: 20px;border: navajowhite;margin: 0;background: red;color: #fff;font-weight: 700;border-radius: 30px;margin-left: -10%;}
 footer{background: #252525;}
